@@ -1,0 +1,47 @@
+[
+  {
+    "flag": "Sent",
+    "sender": "testUser1",
+    "messageID": "1eb2134b",
+    "messageHash": "8a73912576c6bbd4",
+    "to": "+27834557896",
+    "content": "Did you get the cake?",
+    "timestamp": "2025-06-22T15:12:56.956527600"
+  },
+  {
+    "flag": "Sent",
+    "sender": "testUser4",
+    "messageID": "6bb01e47",
+    "messageHash": "7f84d975658af1ad",
+    "to": "0838884567",
+    "content": "It is dinner time !",
+    "timestamp": "2025-06-22T15:12:57.070308300"
+  },
+  {
+    "flag": "Stored",
+    "sender": "testUser2",
+    "messageID": "cc15a2f7",
+    "messageHash": "f630c1aa5ff6c001",
+    "to": "+27838884567",
+    "content": "Where are you? You are late! I have asked you to be on time.",
+    "timestamp": "2025-06-22T15:12:57.069312900"
+  },
+  {
+    "flag": "Stored",
+    "sender": "testUser5",
+    "messageID": "8bed721c",
+    "messageHash": "91f693abcab0dcdc",
+    "to": "+27838884567",
+    "content": "Ok, I am leaving without you.",
+    "timestamp": "2025-06-22T15:12:57.070308300"
+  },
+  {
+    "flag": "Disregard",
+    "sender": "testUser3",
+    "messageID": "78ea31ea",
+    "messageHash": "882440dd2b6443fe",
+    "to": "+27834484567",
+    "content": "Yohoooo, I am at your gate.",
+    "timestamp": "2025-06-22T15:12:57.069312900"
+  }
+]
